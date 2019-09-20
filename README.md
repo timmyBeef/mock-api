@@ -58,4 +58,4 @@ java -jar wiremock-standalone-2.24.1.jar --port 指定的 port 數字
 ![](https://i.imgur.com/yCTFvgW.png)
 
 ## 打 api 成功!
-![](https://i.imgur.com/2cP8GWu.png)
+![](https://i.imgur.com/39jCKai.png)
