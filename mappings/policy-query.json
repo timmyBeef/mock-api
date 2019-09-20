@@ -1,0 +1,13 @@
+{
+    "request": {
+        "method": "POST",
+        "url": "/api/e-commerce/policy/query"
+    },
+    "response": {
+        "status": 200,
+        "headers": {
+            "Content-Type": "application/json"
+        },
+        "bodyFileName": "policy-query-response.json"
+    }
+}

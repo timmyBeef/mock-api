@@ -1,0 +1,30 @@
+{
+  "policies": [
+    {
+      "quotationCode": "20001002436525",
+      "policyCode": "TEST80021821",
+      "mainProductCode": "TA",
+      "mainCoverageName": "TA",
+      "inceptionDatetime": "2017-05-02T12:00:00",
+      "issueDatetime": "2017-02-09T10:41:08",
+      "policyStatus": "ISSUED_WITH_PERM",
+      "proposerName": "王大明_T",
+      "insuredName": "王大明_T",
+      "policyPrem": 29,
+      "accountings": []
+    },
+    {
+      "quotationCode": "20001002436664",
+      "policyCode": "TEST000850",
+      "mainProductCode": "TA2",
+      "mainCoverageName": "TA2",
+      "inceptionDatetime": "2017-03-17T15:23:45",
+      "issueDatetime": "2017-03-17T15:23:45",
+      "policyStatus": "ISSUED_WITH_PERM",
+      "proposerName": "胡小小",
+      "insuredName": "胡小小",
+      "policyPrem": 1520,
+      "accountings": []
+    }
+  ]
+}
