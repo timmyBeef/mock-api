@@ -7,7 +7,13 @@ http://wiremock.org/docs/running-standalone/
 下面有兩個資料夾 mappings 和 __files 和一個 wiremock-standalone-2.24.1.jar
 
 ## mappings 和 __files
-mappings 下有個 policy-query.json, 內容放了 api 的 request 和 response 的描述, 其中 response 還有用到一個 policy-query-response.json (回傳的資料)
+
+mappings: 放 api 的定義 json 檔案
+__files: 放回傳的資料 json 檔案
+
+例子:
+mappings 下有個 policy-query.json, 內容是 api 的 request 和 response 的描述, 其中 response 用到 policy-query-response.json (回傳的資料)
+
 policy-query-response.json 這個檔案就會放在 __files 下面
 
 **policy-query.json** (api 的 request 和 response 的描述)
