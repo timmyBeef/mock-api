@@ -1,7 +1,8 @@
 # 使用 wiremock mock api
+參考:
 http://wiremock.org/docs/running-standalone/
 
-本專案抓下來後
+下載本專案: git clone https://github.com/timmyBeef/mock-api.git
 
 下面有兩個資料夾 mappings 和 __files 和一個 wiremock-standalone-2.24.1.jar
 
